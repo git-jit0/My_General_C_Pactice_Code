@@ -10,20 +10,20 @@ This repository contains a collection of miscellaneous C code snippets covering 
 * stdlib.h
 
 
-**Instructions:**
+### Instructions:
 
 1. Download the code files individually or clone the entire repository.
 2. Compile and run each code snippet using a C compiler.
 3. Refer to the code comments for details on functionality and usage.
 
-**Future Improvements:**
+### Future Improvements:
 
 * Organize the code into modules or projects based on functionality.
 * Add a README file with instructions and usage guidelines.
 * Consider adding a LICENSE file for open-source distribution.
 * Include additional comments and documentation for improved clarity.
 
-**Contribution:**
+### Contribution:
 
 Feel free to contribute to this repository by adding your own C code snippets or improving existing ones. Please make sure to follow the coding style and provide clear documentation.
 
